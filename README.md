@@ -27,7 +27,7 @@ Project Blog: https://medium.com/@danieljosephraj15/data-analytics-recognizing-h
 
 ### 3.Market Basket Analysis using Association Rule - Mining Coding Internship
 
-#### Association Rule Mining - Market Basket Analysis Using Apriori Eclat and Fpgrowth
+#### Association Rule Mining - Market Basket Analysis Using Apriori ECLAT and FPGROWTH
 
 Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules. The outcome of this type of technique is, in simple terms, a set of rules that can be understood as “if this, then that”.
 
